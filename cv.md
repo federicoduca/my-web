@@ -1,3 +1,7 @@
+---
+layout: page
+title: cv
+---
 
 # Hello World!
 
