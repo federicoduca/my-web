@@ -7,7 +7,7 @@ title: "My web"
 author: "Federico Duca"
 
 # url: "federicoduca.github.io"
-base_url: "/"
+base_url: "federicoduca.github.io"
 
 email: "f.duca.a@gmail.com"
 github_username:  federicoduca
@@ -25,15 +25,15 @@ plugins:
 languages: ["es", "en"]
 
 # Processing.
-include:
-  - _pages
+# include:
+#   - _pages
 
-exclude:
-  - .gitignore
-  - .gitmodules # esto esta bien?
-  - 
-  - Gemfile
-  - Gemfile.lock
+# exclude:
+#   - .gitignore
+#   - .gitmodules # esto esta bien?
+#   - 
+#   - Gemfile
+#   - Gemfile.lock
   # - .sass-cache/
   # - .jekyll-cache/
   # - gemfiles/

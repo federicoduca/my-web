@@ -5,9 +5,14 @@ title: Herramientas
 
 # Lenguajes y herrramientas
 
-Lenguajes: Python, R, SQL, C, VHDL, Bash(básico), Matlab
-Sistemas operativos: Windows, Ubuntu
-Herramientas - FPGA: Vivado
-Herramientas - Red: Packet Tracer, Wireshark
-Herramientas - Electrónica: ADS, Eagle, Proteus
-Herramientas - BI: Microstrategy, Power BI, Tableau
+- Sistemas operativos: Windows, Ubuntu
+- Lenguajes:
+	- _Datos_: Python R, SQL
+	- _Electrónica_: C, VHDL
+	- _Web_: HTML, CSS
+	- _Textos_: LaTeX
+- Herramientas
+	- BI: Microstrategy, Power BI, Tableau
+	- Red: Packet Tracer, Wireshark
+	- Electrónica: ADS, Eagle, Proteus
+	- FPGA: Vivado
