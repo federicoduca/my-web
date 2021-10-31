@@ -5,7 +5,7 @@
 layout: home
 ---
 
-### Bienvenido! Welcome! Benvenuto! 
+Bienvenido! Welcome! Benvenuto! 
 
 Sitio en re-construcción... Disculpe las molestias
 <img src="/assets/img/working.jpg" alt="working...">
