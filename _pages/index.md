@@ -6,13 +6,15 @@ title: Home
 
 ## **Bienvenido! Welcome! Benvenuto!** :smile:
 
-Mi nombre es Federico Duca :argentina::it:  y esta es mi Github Page
+Mi nombre es Federico Duca y esta es mi Github Page
 
-Siempre quise a una web, así que aquí está mi primer acercamiento al tema! 
+Siempre quise a una web, así que aquí está mi primer acercamiento al tema... 
 
-Si queres conocer un poco más sobre mi, ya podes ver mi ["Curriculum"](_pages/curriculum.html)
+Conforme pase el tiempo, iré explorando, mejorando y completando esta web :muscle:
 
-Conforme pase el tiempo, iré explorando, mejorando y completando esta web.
+Si quieres conocerme más formalmente, pase por aquí :point_right: ["Curriculum"](_pages/curriculum.html)
+
+Si queres conoerme mas informalmente, pasa por acá :point_right: ["Sobre Mi"](about)
 
 *Gracias por tu visita!*
 

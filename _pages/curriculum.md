@@ -1,11 +1,10 @@
 ---
+permalink: /curriculum/
 layout: default
 title: Curriculum
 ---
 
-# **Curriculum**
-____
-<br />
+## **Curriculum**
 
 - [Experiencia Laboral](#experiencia-laboral)
 - [Formación Académica](#formación-académica)
@@ -103,7 +102,7 @@ ___
 <br />
 
 #### **Coding**
-- 2020 - Python programmer, Career track (7 de 15 cursos) - _Datacamp_
+- 2020 - **Python programmer, Career track** (7 de 15 cursos) - _Datacamp_
 	- Introduction to Data Science in Python
 	- Data Types for Data Science in Python
 	- Data Manipulation in Pandas
@@ -111,7 +110,7 @@ ___
 	- Python Data Science Toolbox (Part 2)
 	- Writing Efficient Code in Python
 	- Working with Dates and Times in Python
-- 2020 - Python fundamentals, Skill track (4 cursos) - _Datacamp_
+- 2020 - **Python fundamentals, Skill track** (4 cursos) - _Datacamp_
 - 2020 - Joining Data in SQL - _Datacamp_
 - 2020 - Introduction to SQL - _Datacamp_
 - 2020 - Intermediate R - _Datacamp_
@@ -141,11 +140,11 @@ ___
 ___
 <br />
 
-- 2015-2018 - Beca completa Instituto Balseiro 
-- 2012 - Medalla de bronce Olimpiada Latinoamericana de Astronomía y Astronáutica 
-- 2012 - 2do Puesto Liga Nacional de Robótica (categoría carreras) 
+- 2015-2018 - Beca completa - _Instituto Balseiro_ 
+- 2012 - Medalla de bronce - _Olimpiada Latinoamericana de Astronomía y Astronáutica_ 
+- 2012 - 2do Puesto - _Liga Nacional de Robótica (categoría carreras)_ 
 
-Publicaciones en la revista institucional del Radio Club Argentino (ISSN: 1514-9706.5) 
+Publicaciones en la revista institucional del _Radio Club Argentino_ (ISSN: 1514-9706.5) 
 - Nro 78 (01/2015): "Por qué armar tu propia antena Turnstile" (Re-publicación en la revista Radioaficionados de la Unión de Radioaficionados Españoles - Junio 2018) 
 - Nro 79 (04/2015): "Cómo bajar imágenes satelitales NOAA" (co-autor)
 - Nro 81 (10/2015): "La red internacional de radiofaros NCDXF/IARU"
