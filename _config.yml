@@ -3,7 +3,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "My web"
+# title: "FD"
 author: "Federico Duca"
 
 # url: "federicoduca.github.io"
@@ -20,13 +20,20 @@ theme: minima
 # theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Languages
 languages: ["es", "en"]
 
+# Minima: custom header links
+header_pages:
+  - _pages/index.md
+  - _pages/about.md
+  - _pages/curriculum.md
+
 # Processing.
-# include:
-#   - _pages
+include:
+  - _pages
 
 # exclude:
 #   - .gitignore
