@@ -103,13 +103,22 @@ ___
 
 #### **Coding**
 - 2020 - **Python programmer, Career track** (7 de 15 cursos) - _Datacamp_
-	- Introduction to Data Science in Python
-	- Data Types for Data Science in Python
-	- Data Manipulation in Pandas
-	- Python Data Science Toolbox (Part 1)
-	- Python Data Science Toolbox (Part 2)
-	- Writing Efficient Code in Python
-	- Working with Dates and Times in Python
+	- [x] Introduction to Data Science in Python
+	- [x] Data Types for Data Science in Python
+	- [x] Data Manipulation in Pandas
+	- [x] Python Data Science Toolbox (Part 1)
+	- [x] Python Data Science Toolbox (Part 2)
+	- [x] Writing Efficient Code in Python
+	- [x] Working with Dates and Times in Python
+	- [ ] Regular Expressions in Python
+	- [ ] Web Scrapping in Python
+	- [ ] Writting Functions in Python
+	- [ ] Introduction to Shell
+	- [ ] Software Engineering for Data Scientist in Python
+	- [ ] Developing Python Packages
+	- [ ] Unit Testing for Data Science in Python
+	- [ ] Object-oriented Programming in Python
+	
 - 2020 - **Python fundamentals, Skill track** (4 cursos) - _Datacamp_
 - 2020 - Joining Data in SQL - _Datacamp_
 - 2020 - Introduction to SQL - _Datacamp_
