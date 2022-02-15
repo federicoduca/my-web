@@ -112,7 +112,7 @@ ___
 	- [x] Working with Dates and Times in Python
 	- [ ] Regular Expressions in Python
 	- [ ] Web Scrapping in Python
-	- [ ] Writting Functions in Python
+	- [x] Writting Functions in Python
 	- [ ] Introduction to Shell
 	- [ ] Software Engineering for Data Scientist in Python
 	- [ ] Developing Python Packages
