@@ -114,7 +114,7 @@ ___
 	- [ ] Web Scrapping in Python
 	- [x] Writting Functions in Python
 	- [ ] Introduction to Shell
-	- [ ] Software Engineering for Data Scientist in Python
+	- [x] Software Engineering for Data Scientist in Python
 	- [ ] Developing Python Packages
 	- [ ] Unit Testing for Data Science in Python
 	- [ ] Object-oriented Programming in Python
