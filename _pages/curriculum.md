@@ -115,7 +115,7 @@ ___
 	- [x] Writting Functions in Python
 	- [ ] Introduction to Shell
 	- [x] Software Engineering for Data Scientist in Python
-	- [ ] Developing Python Packages
+	- [x] Developing Python Packages
 	- [ ] Unit Testing for Data Science in Python
 	- [ ] Object-oriented Programming in Python
 	
