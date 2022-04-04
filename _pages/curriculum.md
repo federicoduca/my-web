@@ -102,7 +102,7 @@ ___
 <br />
 
 #### **Coding**
-- 2020 - **Python programmer, Career track** (7 de 15 cursos) - _Datacamp_
+- 2020 - **Python programmer, Career track** - _Datacamp_
 	- [x] Introduction to Data Science in Python
 	- [x] Data Types for Data Science in Python
 	- [x] Data Manipulation in Pandas
@@ -116,7 +116,7 @@ ___
 	- [ ] Introduction to Shell
 	- [x] Software Engineering for Data Scientist in Python
 	- [x] Developing Python Packages
-	- [ ] Unit Testing for Data Science in Python
+	- [x] Unit Testing for Data Science in Python
 	- [ ] Object-oriented Programming in Python
 	
 - 2020 - **Python fundamentals, Skill track** (4 cursos) - _Datacamp_
