@@ -117,7 +117,7 @@ ___
 	- [x] Software Engineering for Data Scientist in Python
 	- [x] Developing Python Packages
 	- [x] Unit Testing for Data Science in Python
-	- [ ] Object-oriented Programming in Python
+	- [x] Object-oriented Programming in Python
 	
 - 2020 - **Python fundamentals, Skill track** (4 cursos) - _Datacamp_
 - 2020 - Joining Data in SQL - _Datacamp_
