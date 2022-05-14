@@ -6,7 +6,7 @@ title: Sobre Mi
 
 ## **Hola, soy Federico Duca!**
 
-<img src="/assets/img/foto_austria_portrait.png" width=200px alt="Me">
+<!-- <img src="/assets/img/foto_austria_portrait.png" width=200px alt="Me"> -->
 
 Nacido y críado en Argentina :argentina:, mayormente en el barrio de Liniers de la Ciudad Autonoma Buenos Aires y un poco también en Bariloche. De descendencia italiana :it:, con pasaporte pero todavía *no parlo*. Se podría decir que soy una persona curiosa que le gusta andar aprendiendo todo el tiempo. He aquí, una forma de plasmar lo que voy aprendiendo en cuanto a diseño web (pasito a pasito).
 
