@@ -18,5 +18,5 @@ Si queres conocerme mas informalmente, pasa por acá :point_right: ["Sobre Mi"](
 
 *Gracias por tu visita!*
 
-<img src="/assets/img/working.jpg" alt="working...">
+<!-- <img src="/assets/img/working.jpg" alt="working..."> -->
 
